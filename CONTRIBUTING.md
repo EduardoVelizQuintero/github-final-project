@@ -1,4 +1,1 @@
-Eduardo Veliz
-Aloso Ramirez
-Guadalupe Magaña
-Luguis De Los Santos
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
